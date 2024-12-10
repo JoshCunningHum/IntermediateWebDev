@@ -1,0 +1,3 @@
+[submodule "multiplayer-module"]
+	path = multiplayer-module
+	url = https://github.com/JoshCunningHum/peer-network-prototype
